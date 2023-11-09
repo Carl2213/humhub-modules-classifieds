@@ -63,7 +63,7 @@ Allows users to make classifieds-style posts in spaces, organized by categories
 
 # Credits
 
-__Author:__ [Ace2213](https://github.com/Ace2213)
+__Author:__ [Carl Sinclair](https://github.com/Carl2213)
 
 __Original Author:__ [Eole211](https://github.com/Eole211/HumShare)
 
