@@ -1,0 +1,281 @@
+i.fa.fa-ad {
+font-size: 20px;
+color: #33a82f;
+margin: -4px -10px;
+vertical-align: bottom;
+background-color: #fff;
+}
+textarea#sharedobject-location {
+height: 42px
+}
+button#edit-cat-btn {
+margin-top:10px;
+}
+@media (max-width:744px) {
+.col-xs-12.col-sm-6.col-md-6.col-lg-4.col-xl-5.px-2.post-listing {
+width: 100%!important;
+}
+}
+button#new-listing-btn {
+float:left;
+}
+div.fielddescriptionclassifieds {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #efeeee;
+    border-top: 1px solid #efeeee;
+    font-size: .9em;
+    font-style: oblique;
+    margin-bottom: 10px;
+}
+
+div.fallos-title-category-rep {
+    margin-left: 10px;
+    text-decoration: underline;
+    text-align: right;
+}
+
+div.fallos-field-title-rep:first-letter {
+    text-transform: capitalize;
+}
+
+.title-classifieds {
+    display: block;
+    padding: 5px;
+    border-left: 5px solid;
+    font-weight: 600;
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+
+span.quantity {
+    width: 25px;
+    height: 25px;
+    background: black;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+    color: #fff;
+    font-size: 15px;
+    display: block;
+    float: right;
+    font-weight: bolder;
+    margin-left: 5px;
+}
+
+.classifieds-table td,
+.classifieds-table th {
+    padding-left: 10px
+}
+
+.fecha-post {
+    font-size: 10px;
+    padding-top: 65px;
+    color: #e86240;
+}
+
+.actions {
+    display: block;
+    font-size: 11px;
+    background: #f7f7f7;
+    height: 47px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+span.botones {
+    margin-top: 10px !important;
+    display: inline-block;
+    margin-left: 3px;
+}
+
+.nombre-vendedor {
+    display: block;
+    float: left;
+    width: 50%;
+    margin-top: -3px;
+    color: #555;
+    font-size: 11px !important;
+}
+
+.post-listing {
+    height: 320px;
+    border: 3px solid #fff;
+    float: left;
+    padding: 3px;
+    margin-top: 10px;
+}
+
+.container-border {
+    height: 320px;
+    border: 3px solid #ccc;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.container-listing {
+    display: block;
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+
+.product-image {
+    background: #ff9900;
+}
+
+.title-listing-classified a {
+    color: #000;
+}
+
+.description-listing-classified a {
+    color: #ccc;
+}
+
+.title-listing-classified {}
+
+.description-listing-classified {
+    min-height: 40px;
+}
+
+.title-listing-classified p {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.description-listing-classified p {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+div.fotos-classifieds {
+    display:contents;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    float: left;
+    height: 200px!important;
+    margin-top: -35px;
+}
+
+div.fotos-classifieds img {
+    width: 55px;
+    height: 200px!important;
+}
+
+.btnx {
+    border: none;
+    outline: none;
+    padding: 8px 8px;
+    background-color: #33a82f;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    display: block;
+    float: left;
+    margin: 5px;
+}
+
+
+/* Style the active class, and buttons on mouse-over */
+
+.btnx:hover {
+    background-color: #666;
+    color: white;
+}
+
+.btnx a:active {
+    background-color: #ff9900;
+    color: white;
+}
+
+.category-name {
+    display: block;
+    float: left;
+    margin-right: 10px;
+    background: #f7f7f7;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+.listing-posts {
+    min-height: 300px;
+}
+
+
+/* Style the active class, and buttons on mouse-over */
+
+.btnx:hover {
+    background-color: #666;
+    color: white;
+}
+
+.btnx a:active {
+    background-color: #ff9900;
+    color: white;
+}
+
+p.see {
+    font-size: 12px;
+}
+
+.price {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: bolder;
+    display: block;
+    float: right;
+    background: #3c763d;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.price-listing {
+    color: #fff;
+    font-size: 1.0em;
+    display: block;
+    float: right;
+    background: #3c763d;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.price2 {
+    color: #71a830;
+}
+
+.seepost {
+    display: block;
+    background: #e86240;
+    color: #fff;
+    text-align: center;
+    font-size: .8em;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 3px;
+    width: 45px;
+    margin-top: 20px;
+    float: right;
+}
+
+.seepost a {
+    color: #fff;
+}
+
+.seepost a:hover {
+    color: #fff;
+}
+
+.ocultar {
+    display: none;
+}
+
+div.ocultar {
+    display: none !important;
+}

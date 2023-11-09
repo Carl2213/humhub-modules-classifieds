@@ -1,0 +1,10 @@
+{
+    "id": "classifieds",
+    "name": "Classifieds",
+    "description": "Add the ability to post classifieds in your space, organized by categories.",
+    "keywords": ["user", "space", "classifieds", "buy", "sell"],
+    "version": "0.9",
+    "humhub": {
+        "minVersion": "0.20"
+    }
+}
